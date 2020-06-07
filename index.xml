@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://goiigo.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://goiigo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A</title>
+      <link>https://goiigo.github.io/a/</link>
+      <pubDate>Sun, 07 Jun 2020 17:21:43 +0800</pubDate>
+      
+      <guid>https://goiigo.github.io/a/</guid>
+      <description>Hello World</description>
+    </item>
+    
+  </channel>
+</rss>
